@@ -1,0 +1,49 @@
+What to do...?
+
+Code:
+    What else should I create/do?
+        Randomize Character creation
+            Selects Race/Class/Feat/Rolls Stats/etc. (Will take some time to create)
+            This would be good to learn more Python with
+                Next option for Python work
+
+
+
+3D Print:
+    List of items needed to get 3D designed and printed:
+        Houses
+            Small houses
+            Big houses
+        Elevated platform for flying monsters/creatures
+        Various Misc. Objects:
+            Wells
+            Fireplace
+            Trees
+            Barrels
+            Tables/Chairs
+        Boats
+            War Boats
+            Merchant Boats
+            Small Boats, etc.
+
+
+
+
+D&D:
+    Homebrew Campaign Creation
+        Map
+        City / Town layouts
+            Taverns
+            Blacksmiths/General Stores/etc.
+                Names of individuals
+        Big Bad Guy
+        Purpose of the Campaign
+            How everything ties together
+
+
+    Deidara's Home, build out more
+        Short Story
+            Might need a little more context of what the short story will be about
+    Short Stories
+        One shots, short Campaigns, etc.
+    Building Schematics for Explosives, etc.

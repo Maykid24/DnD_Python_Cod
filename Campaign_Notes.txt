@@ -1,0 +1,186 @@
+Campaign_Notes
+
+Portal Walkers (Portal Walking folk)
+
+Gate Colors:
+	- Green: Short Campaign
+	- Gold: Item Portal
+	- Orange: Information/Buff
+	- Rainbow: Hints/Tips
+	- Blue: Teleportation back to the Cryptographer
+	- Purple: Crafting
+	- Black & Purple: ??
+	- Black: Hard Boss
+	- Silver: Individual Portals of Characters backstory
+
+
+
+Purple Portals:
+	- Trunk (Wood/Iron work)
+	-
+
+
+
+Marcus Owl -
+	1 squeeze (We're good)
+	2 squeeze (Need to talk)
+	3 squeeze (We are about to be attacked)
+
+-------------------------------------------------------------------------------------------------------
+
+Black Right Portal (Come here my pretties) - (Complete)
+	- Hut in the middle of the field
+	- Dusk appearance
+	- Very quick night and day
+		- Someone is in the hut that is chanting with a staff
+
+	- Initiative
+		- Ballista
+			- AC: 18
+			- HP: 20
+	- Defeated the witch that was laying wait
+	- Need something to go against cold...
+
+
+Green Portal (Escape the tower of howling hatred)
+	- Pyramid Room
+		- 30ft x 70ft room
+		- West --> Straight left orange portal
+			- Solved
+		- South --> Gold Portal (Solved)
+		- SouthWest --> Black/Purple Portal
+			- Solved
+				- You face Aerisi Kalinoth
+				- Appears at the portal after solving it
+			- Gar needs to be killed (Southeast location, possible scouting mission to the air temple)
+				- Weakness against Lightning
+				- Carries a trident
+		- North = Fire
+		- East = Water
+		- South = Air
+		- West =
+		- Exit --> Far SouthWest
+
+	- Got out on our way to meet Gar
+
+-------------------------------------------------------------------------------------------------------
+
+Proficient in Forgery Kit - Portal ability
+
+Silver Portal - Tylers Short Campaign
+Sora Bailyn - Half elf/druid-paladin - Healer
+    - 5'8" tall
+    - Long Blonde Hair
+    Trained in weapons from an early age
+    Daughter of - Princess Lana
+    Looking for a cure to help her mother
+
+Tree of life - Restortave powers, has to do something with the plane
+
+Grabbed books from sleeping person outside the portal
+    - Fundamentals of Conjuration
+    - Advanced transmutive properties and alloys
+
+See various name plates, class 1A - Alchemy stations, tubes, bottles
+    - Transmutation, alchemy setups, tools to do transmutation, non-biological alloys, woods, etc.
+    - Take wood and alchemist set
+
+Tuning Fork - 8
+    - Planar Travel - Be able to travel to other locations using the forks
+        - Taken back
+
+Caught, taken to the jails (Candles)
+    - Two spires that go into the sky
+
+After the trial we are now in servitude to a high-end lady to do her bidding for her for payment
+    - We were given everything back (?)
+    - Lady Larenhale (Servitude - Errand)
+        - Signed a document to serve Lady Larenhale
+
+    - Was given a bracelet that is a tracking device/communication purposes
+        1 mile distance
+
+
+Reports
+    Petty Criminals
+    Assassination - Baron (Bersia)
+    Infestation - Mining Camp (Mill Marrow)
+        Iron Ingots with Certain Gems
+    High-End Criminal Syndicate (Bricks Mappits) - Paying off low level thugs
+
+Sigil Circles
+    - Armorer - Iron Mill
+        - Farus
+        - Bought a new Shield with +1
+        - Bought a Half Plate with Mithral
+            - Needs to be done within 2 weeks to go back and get it
+            - Gave small vile of Gun Powder to the Farus as a deal for the Shield
+                - Need to bring that up when we get back to see if they made more or made quite a bit of money from it
+                - Or to buy a massive quantity of Gun Powder from them/barter with them for being able to make a
+                    fortune from the gunpowder
+
+        - Koshka:
+            - Periapt of Health
+            - Bracers of Defense
+                - Roughly 3 weeks to be done
+
+Platinum Plaza
+    Dragons Eyes Gems - Jewlery store
+
+
+Far West - Manticores (Need multiple horns to cut the price for Koshka)
+    - Lause Lake
+    - Into the mountains, high altitude terrain in the mountains
+
+Made Tinker Tool
+    - Firstarter
+
+Lady Larenhale
+    - Gave us 10 days to complete the mines report
+    - Need to look for the Manticore if possible
+
+Follow the right most trail to get to the mines
+    - Mining Camp
+
+Went off trail 2.5 miles (What???) to find a cave
+    - Inside the cave is a Devil hole essentially
+    - Fought Goblins/Devils
+        - Koshka went down
+
+    *** Need to get anyone down up as quickly as possible before death saves start to happen ***
+
+
+*** Truly need to figure out if the Imps are going to follow us North or if they are staying around the cave ***
+
+Questions to ask prior to Starting the Session:
+    - Is it still heavily raining/windy outside?
+        If yes:
+            Are they at disadvantage for movement due to wind? (Half Speed / Difficult Terrain)
+            Are they at disadvantage for Perception with rain pelting their face?
+
+    - Do we see the imps fanning out across all areas?
+    - Did we see anything coming out of the cave as we are running?
+    - Once we get back to the trail, do we see Imps still flying around spreading out or are they staying close to the
+        cave?
+        - From what we saw on this trail, is there any other trails that we could see that are further away from the cave?
+        - Do we ultimately say "Screw this!" and go back to the city, telling Larenhale you have a Devil issue that
+            needs an army to deal with it.
+            - 25-Word Sentence
+                Mine Report: You have a devil issue, half days ride, left into trees
+                    2 miles off trail devil cult cave, trail going to the mine.
+
+Horse Stats
+    18 HP
+        Current HP: 14
+    10 AC
+    60 Feet
+
+Forest of webs - Spiders
+    A person was webbed into the tree
+
+Taking a rest in the mining village
+    Everything is dead, houses are demolished, etc.
+    Taking a long rest (Hopefully) to regain all spell slots, etc.
+    Need to be mindful of spell slots next time for ballista
+        Only cast the last lvl 1 spell if known that everything else will be okay
+

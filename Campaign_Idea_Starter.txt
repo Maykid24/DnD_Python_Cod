@@ -1,0 +1,182 @@
+Campaign Idea Starters
+
+Portal Ideas:
+	- Pyramid (Nicole)
+	- Misty Lands (Green Portal) Center
+	- Land of Dragons (Black Portal) Left
+		- Riddle:
+			- Land is filled with destruction and fire, large beasts with wings rule the skies. Powerfull, immense power, the scales of beasts live on forever in the mind. What am I?
+				- A: Dragons (Solved)
+
+-----------------------------------------------------------------------------------------
+
+	- Pyramid (Nicole)
+		- Need to work with Nicole to get this accomplished
+_________________________________________________________________________________________
+
+	- Misty Lands (Green Portal)
+		- Main Goal:
+			- To defeat the minions of the Sorcerer
+			- Defeat the Sorcerer if found
+
+		- Land of the mist, cannot see beyond 60 feet during the day / during the night turns into a fog
+			- Depending on the sun / moon brightness will dictate if the 60 feet
+				- 11 or higher sun / moon is bright --> if lower then faded brightness
+					- If bright able to see 30 feet further than usual
+				- Roll second d20 for clouds in the sun / moon
+					- 11 or higher sun / moon is out
+						- Able to see 60 feet
+						- Less than 11 only able to see 30 feet in any direction
+		- In buildings able to see throughout the entire building as mist cannot access the buildings
+
+		- 2 Orange Portals
+
+			Riddle:
+				- I can see light, but I'm filled with darkness. I usually only have one entrance and one exit. I'm usually located deep within the mountains and sometimes in random spots. What am I?
+					- A: A Cave
+
+			- 1. The location of the minions, number of minions and a weakness about the minions
+				- Location: Walk 300ft to the north
+							Run 100ft to the east
+							Head north until you reach the cave
+				- Number of Minions:
+							30 Minions
+				- Weakness:
+							They usually sleep during the night and only have two sentries watching, one at the main entrance of the cave, the other down into the cave about 100ft
+							You might be able to collapse the cave entirely with destroying specific pillars
+			- Another Orange Portal is to the east roughly 1 Mile, in the forest at the base of the largest tree
+
+			Riddle:
+				- The leaves blow in the wind, the clouds becomes darkness. There is a bright light in an instant, that causes great fire. What am I?
+					- A: Lightning / Thunder
+
+			- 2. The location of the Sorcerer and a weakness
+				- Location: Walk 500ft to the west
+							Walk 500ft to the north
+							Run 350ft to the south
+							Walk 100ft to the north
+				- Weakness:
+							Earth/Dirt - Cover yourself in it, otherwise the battle ahead will hurt... and some may never come back
+				If you haven't found it yet, there is another Orange portal roughly 1 mile due west. Before you reach the mountains and the entrance into the mountain pass. I highly suggest going there first before proceeding to the Sorcerer... It will be in your best benefit to do so.
+
+
+		Town near entrance Portal:
+			- Inn Keeper:
+				- Koabin Ushi (High Elf)
+					- Male
+					- Brown Hair
+					- Age: 267
+					- Quiet and conservative
+			- General Store:
+				- Gavin Stovkav (Dwarf)
+					- Male
+					- Grey Hair
+					- Age: 154
+					- Harsh voice, has a limp when walking, Scottish accent
+				- Has minimal equipment at first, if group comes back again to get resources will have more depending on what's going on
+
+
+		The mist has potential for hallucinations depending on how long the group stays out in the mist:
+			Over 8 hours: Intelligence DC 13
+				- Starts seeing figures move in the mist beyond what they can see
+					- Is able to snap out of it if one group member shakes them, slaps them, etc.
+			Over 24 hours: Charisma DC 14
+				- Starts to see multiple figures move in the mist
+				- Becomes paranoid overall and feels like they are being watched
+					- Is able to snap out of it by one group member smacking/slapping. Must make some kind of physical contact
+			Over 48 hours: Constitution DC 16
+				- Unable to move for 5 minutes
+				- Becomes over paranoid and starts to see hundreds of eyes peering into their eyes at once
+					- Able to make another saving throw before going insane for 5 minutes, players determine what insanity is to their characters
+
+		If group stays in village longer than 3 days, mercenary groups go to the village to take gold, items, etc.
+			- Group can choose to fight or not fight mercenary group all depends on what group wants to do
+			- Common items will drop if the group chooses to face the mercenary group
+				- Will become random after that
+					- Roll d20 / Greater than 15 an event happens, anything lower nothing happens
+
+		Minions
+			- AC 13
+			- HP 20
+			- Shortsword ~ 20
+			- Shortbow ~ 10
+				- Defeat: Common Items, possible potions of healings
+
+		Sorcerer
+			- If group uses earth in any fashion, damage is halved completely
+				- If not, full damage
+			- AC 14
+			- HP 120
+			- Spells
+				- Cantrip (5): Thunderclap / Lightning Lure / Frostbite / Message / True Strike
+				- LvL 1 (3): Charm Person / Expeditious Retreat (C) / Thunderwave
+				- LvL 2 (3): Darkness (C) / Gust of Wind (C) / Shatter
+				- LvL 3 (2): Lightning Bolt / Thunder Step
+					- Defeat: 1 Chest, Magical Items
+
+		Exit Portals:
+			- 1. If group keeps walking straight from where they enter the land for 2 miles where the Tree's and Mountains come together an exit portal appears
+			- 2. Portal after they defeat the Sorcerer
+			- 3. Portal deep within the mountains
+			- 4. Portal appears in the middle of the village after a certain period of time
+
+_________________________________________________________________________________________
+
+	- Land of Dragons (Black Portal)
+		- Protect a baby dragon against a fierce foe
+			- Ancient Brass Dragon
+
+		- Dead Goblins around the baby dragon
+		- Warning of waves of Goblins coming from three different tunnels
+			- One tunnel is heavily damaged and looks like it will collapse soon
+
+		- Available arrows, swords, etc.
+			- They hear a dragons voice
+				- "Protect my dragon egg, I will be there soon. If you defend the egg there will be rewards"
+
+		- Wave 1:
+			- 10 Goblins
+				- AC 11
+				- HP 15
+				- 10 Shortsword
+				- 5 Shortbow
+					- Leadership is low
+
+		- Wave 2:
+			- Comes about 3 hours after the defeat of the first
+			- 15 Goblins
+				- AC 12
+				- HP 17
+				- 15 Shortsword
+					- Leadership is low
+
+		- Gold Portal Appears:
+			- I am inside each of you, I am the very thing that lights up the darkness. I am the very thing that brings destruction but also brings life. What am I?
+				- 2d6 Potion of healing
+				- A magical hammer that is cracked
+					- Identify will determine it to be able to hit a cave entrance and cave it in
+						- Roll 1d4 on 2 or lower the hammer breaks, if higher the hammer cracks even further
+							- If hammer succeeds, must roll a 4 on a 1d4 in order for the hammer not to break
+		- Exit Portal Appears:
+			When it appears, the dragon speaks to the group:
+				- "Please save my egg, I will be there shortly. I know the Goblin Boss is coming, he'll be there soon. I'm on my way"
+
+		- Wave 3:
+			- Comes about 4 hours after the defeat of the second:
+			- 20 Goblins
+				- AC 13
+				- HP 15
+				- 20 Shortsword
+
+			- 1 Goblin Boss
+				- AC 15
+				- HP 120
+				- Greatsword
+					- Barbarian
+
+		- After 2 rounds of the 3rd wave, the dragon appears to aid the group in the fight
+
+		- Rewards for defeating the foes:
+			- DM book Random
+
+_________________________________________________________________________________________

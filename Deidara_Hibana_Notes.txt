@@ -1,0 +1,187 @@
+Deidara Hibana
+
+	- Proficencies
+		- Light Armor
+		- Medium Armor
+		- Shield
+		- Simple Weapons
+		- Firearms
+
+	- Tools:
+		- Thieves
+		- Tinker
+		- Woodcarver
+		- Smith Tools
+		- Glassblowers
+		- Alchemists Supplies
+
+	- Languages
+		- Common
+		- Gnomish
+		- Dwarven Dialect
+		- Elvish
+
+----------------------------------------------------------------------------------------------------
+
+	- Weapons:
+		- Wand
+			- Enhanced Arcane Focus +1 Spell Attack
+			- Arcane Firearm
+				- + 1d8 for each spell that is casted from the wand that deals damage
+
+		- Eldritch Cannon
+			- AC 18
+			- HP: LvL * 5
+			- Ability Check: +0
+			- Mending Gains: 2d6
+			- Speed: 15ft
+			- Attack: d20 + Spell Attack
+
+			- Flamethrower
+				- Range: 15ft Cone
+				- Dex Save
+				- Damage: 2d8 failed save / half on save
+
+			- Ballista
+				- Range: 120ft
+				- Damage: 2d8 Force Damage
+					- Pushed 5ft away from the cannon
+
+			- Protector
+				- Range: 10ft
+				- 1d8 + INT Mod (Temporary HP)
+
+-----------------------------------------------------------------------------------------------------
+
+	- Equipment
+		- Tools:
+			- Thieves
+				- 998 Ball Bearings
+				- 10 Feet of String
+				- 1 Bell
+				- 5 Candles
+				- Crowbar
+				- Hammer
+				- 10 Pitons
+				- Hooded Lantern
+				- 2 Flasks of Oil
+				- Tinderbox
+				- Waterskin
+				- 50 Feet of Hempin Rope
+			- Dungeoner
+				- 5 Pitons
+				- 5 Torches
+				- Tinderbox
+				- Waterskin
+				- 50 Feet of Hempin Rope
+
+		- Armor
+			- Scale Mail
+			- Shield (Poorly made Iron)
+
+		- Items
+			- Bag of Holding (Infusion) - Given to Koshka
+			    - Backpack
+			- Bed Roll
+
+
+		- Potions
+			- Oil of Slipperyness
+
+		- Misc. Equipment
+			- Firestarter
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+	- Needed Items
+		- Half Plate Armor
+			- Elven Chain
+			- Mithral Armor
+		- Shield (Metal/Iron)
+			- Preferably +1
+		- Better Wand
+			- Wand of War Mage (1)
+			- Want of Magic Missiles (5)
+			- Wand of Fireballs (3)
+			- Wand of Lightning Bolts (4)
+			- Wand of Secrets (2)
+		- Bag
+			- Bag of Holding
+
+
+	- Good to have Items
+		- Boots
+			- Boots of Elvenkind
+			- Boots of the Winterlands
+		- Cloaks
+			- Cloak of Elvenkind
+			- Cloak of Protection
+
+
+	- Want to have Items
+		- Rods
+			- Immovable Rod
+		- Items
+			- Googles of the Night
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+	Features & Traits:
+
+		- Feat:
+			- Fey Touched
+				- +1 Int
+				- Misty Step / Hex
+
+		- Feat 2:
+			- Spell Sniper
+				- Spell attack range is doubled
+				- Spell attacks ignore half/three quarter cover
+				- Cantrip:
+					- Ray of Frost
+
+		- Infusions Known: 4
+		- Infused Items: 2
+
+		    - Enhanced Arcane Focus - Wand +1 Attack Roll
+		    - Enhanced Defence - Scale Mail
+
+		- Infusions:
+			- Replicate Magic Items
+			- Repeating Shot
+			- Enhanced Defense
+			- Enhanced Arcane Focus
+
+		- Guild Artisan
+			- Guild Business
+				- Smiths and Metal-Forgers
+
+		- Darkvision: 60ft
+
+		- Gnome Cunning:
+			- Advantage: Int/Wis/Cha Saving throws against magic
+
+		- Artificer Lore:
+			- Int/History checks against magic items alchemical objects or tech devices add twice your prof. bonus
+
+		- Tinker:
+			- 1 Hour and 10gp of materials make:
+				- Clockwork toy
+				- Firestarter
+				- Music Box
+
+		- Magic Tinkering:
+			- Spark magic into tiny nonmagical objects
+				- Bright Light 5ft
+				- Recorded Message 6 Seconds
+				- Choice of odor, non-verbal sound
+				- Static Visual
+					- Lasts indefinitely --> Max objects Int Mod
+
+		- Arcane Firearm
+			- Carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm
+			- Add a d8 damage to spell damage rolls

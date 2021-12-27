@@ -1,0 +1,14 @@
+Navigating to a Page (Hold down CTRL then the Number/Letter)
+    Also, can hit SHIFT-F11 to see all Bookmarks
+    To create new Bookmarks - F11
+    To set code CTRL+F11
+
+Navigation - 1
+Campaign Notes - 2
+Deidara Notes - 3
+Characters - 4
+Campaign Starter Idea - 5
+Short Campaign - 6
+Deidara Backstory - 7
+New Character Ideas - 8
+What to Do - 9
