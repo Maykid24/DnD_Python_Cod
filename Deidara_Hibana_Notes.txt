@@ -56,22 +56,15 @@ Deidara Hibana
 	- Equipment
 		- Tools:
 			- Thieves
-				- 998 Ball Bearings
 				- 10 Feet of String
-				- 1 Bell
 				- 5 Candles
-				- Crowbar
-				- Hammer
-				- 10 Pitons
 				- Hooded Lantern
 				- 2 Flasks of Oil
-				- Tinderbox
 				- Waterskin
 				- 50 Feet of Hempin Rope
 			- Dungeoner
 				- 5 Pitons
 				- 5 Torches
-				- Tinderbox
 				- Waterskin
 				- 50 Feet of Hempin Rope
 
@@ -144,17 +137,20 @@ Deidara Hibana
 				- Cantrip:
 					- Ray of Frost
 
-		- Infusions Known: 4
-		- Infused Items: 2
+		- Infusions Known: 6
+		- Infused Items: 3
 
 		    - Enhanced Arcane Focus - Wand +1 Attack Roll
-		    - Enhanced Defence - Scale Mail
+		    - Bag of Holding x1
+		    - Boots of Elvenkind
 
 		- Infusions:
 			- Replicate Magic Items
 			- Repeating Shot
 			- Enhanced Defense
 			- Enhanced Arcane Focus
+			- Repulsion Shield
+			- Spell-Refueling Ring
 
 		- Guild Artisan
 			- Guild Business
@@ -185,3 +181,7 @@ Deidara Hibana
 		- Arcane Firearm
 			- Carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm
 			- Add a d8 damage to spell damage rolls
+
+	    - Tool Expertise
+	        - Your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a
+	            tool
