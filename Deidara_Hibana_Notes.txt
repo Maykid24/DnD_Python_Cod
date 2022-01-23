@@ -63,7 +63,6 @@ Deidara Hibana
 				- Waterskin
 				- 50 Feet of Hempin Rope
 			- Dungeoner
-				- 5 Pitons
 				- 5 Torches
 				- Waterskin
 				- 50 Feet of Hempin Rope
@@ -77,12 +76,24 @@ Deidara Hibana
 			    - Backpack
 			- Bed Roll
 
-
 		- Potions
 			- Oil of Slipperyness
 
 		- Misc. Equipment
 			- Firestarter
+			- Bone Dice of Woe and Wane
+			    Roll 2d20 taking note of each result, for the next hour you may use either value in place of a normal
+			    d20 role after the roll, but before the result is confirmed. These dice have a single charge, which recharges
+			    with dawn of each new day.
+			    *CURSE*: Roll a % die at 50%, on the (unfortunate) success, the other result of the d20s rolled is used
+			    in place of the desired outcome. This curse effect occurs immediately, as soon as, the player affecting
+			    their roll uses this item.
+			- The Crawling Kings Swarm
+			    Attunement Required
+			    This Circlet attached with two antennae, insectoid in its appearance; contains a powerful enchantment
+			    to control insectoid creatures to limited effect. Once, per day you may target an insectoid creature
+			    only, and cast the spell Dominate Monster. DC 14 or your spell save, this spell ignores VSM components
+			    for the purpose of casting, and is limited to the original spells duration and normal effects.
 
 
 
