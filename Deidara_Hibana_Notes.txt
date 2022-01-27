@@ -160,7 +160,7 @@ Deidara Hibana
 			- Repeating Shot
 			- Enhanced Defense
 			- Enhanced Arcane Focus
-			- Repulsion Shield
+			- Boots of Winding Path
 			- Spell-Refueling Ring
 
 		- Guild Artisan
