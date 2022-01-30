@@ -69,7 +69,8 @@ Deidara Hibana
 
 		- Armor
 			- Scale Mail
-			- Shield (Poorly made Iron)
+			- Half-Plate Mithril
+			- Shield +1
 
 		- Items
 			- Bag of Holding (Infusion) - Given to Koshka
@@ -100,25 +101,11 @@ Deidara Hibana
 -----------------------------------------------------------------------------------------------------
 
 	- Needed Items
-		- Half Plate Armor
-			- Elven Chain
-			- Mithral Armor
-		- Shield (Metal/Iron)
-			- Preferably +1
-		- Better Wand
-			- Wand of War Mage (1)
-			- Want of Magic Missiles (5)
-			- Wand of Fireballs (3)
-			- Wand of Lightning Bolts (4)
-			- Wand of Secrets (2)
 		- Bag
 			- Bag of Holding
 
 
 	- Good to have Items
-		- Boots
-			- Boots of Elvenkind
-			- Boots of the Winterlands
 		- Cloaks
 			- Cloak of Elvenkind
 			- Cloak of Protection
@@ -128,7 +115,7 @@ Deidara Hibana
 		- Rods
 			- Immovable Rod
 		- Items
-			- Googles of the Night
+			- Goggles of the Night
 
 
 
