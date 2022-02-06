@@ -5,7 +5,7 @@ DnD Games
 		Roll d8
 		Roll d6
 		Roll d4
-			Highest Roll Wins
+			Highest Roll Wins (All 3 rolls added together)
 
 	Drinking Game
 		3 Constitution Rolls + Modifier
@@ -42,6 +42,8 @@ If group goes directly to the Tavern not hearing what Deidara stated: Perception
             Lies inside the mountain a mound of treasures no one could ever imagine
             Continues discussing that the mountain is abandoned but no one was able to get to the treasure
                 - Dragon Mountain (Ancient Dragon)
+                Ancient Dragon gives them a deal that if they bring the Merc Group leader to him alive or dead, the
+                Dragon will spare their lives along with everyone in Olsa Thalor
 
     Tavern 2:
         The Secret Celery
@@ -57,7 +59,9 @@ If the group asks for directions to Deidara's family:
     They meet the Hibana family which is different, if the group provides the object that Deidara presents they sit down
         and have a conversation about what exactly happened
     They state that the real group responsible for it has never been truly found but, they believe it's a group that lives
-        to the north somewhere on an island, about half a day to the docks and another half day by boat to the island
+        to the east somewhere on an island (Land of Coal), about half a day to the docks and another half day by boat to the island
             - Big Baddies and massive amount of Corruption along the way
+                (Need to fine tune this of what they would be facing)
+                Humans, Trolls, Creatures?
 
 If the group goes a totally different direction, role with it! =D
