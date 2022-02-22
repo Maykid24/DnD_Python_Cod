@@ -105,14 +105,14 @@ ________________________________________________________________________________
 		Sorcerer
 			- If group uses earth in any fashion, damage is halved completely
 				- If not, full damage
-			- AC 14
+			- AC 16
 			- HP 120
 			- Spells
 				- Cantrip (5): Thunderclap / Lightning Lure / Frostbite / Message / True Strike
 				- LvL 1 (3): Charm Person / Expeditious Retreat (C) / Thunderwave
 				- LvL 2 (3): Darkness (C) / Gust of Wind (C) / Shatter
 				- LvL 3 (2): Lightning Bolt / Thunder Step
-					- Defeat: 1 Chest, Magical Items
+					- Defeat: 1 Chest, Magical Items (How many items?)
 
 		Exit Portals:
 			- 1. If group keeps walking straight from where they enter the land for 2 miles where the Tree's and Mountains come together an exit portal appears
