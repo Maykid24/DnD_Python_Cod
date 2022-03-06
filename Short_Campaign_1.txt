@@ -185,14 +185,7 @@ __________________________
 *** 3/6/2022 Session ***
 
 Connor
-    - Does he sleep with the device or not?
-        - Yes:
-            Connor has a vivid dream of the magic he's capable of but leaves a little of unknown
-                One path shows the good in magic and how helpful it can truly be
-                Other path shows the evil in magic and how much destruction it can cause
-                    A being tells Connor to choose carefully, for if he chooses the wrong path there is no going back
-        - No:
-            Nothing happens
+    - Leaves during the middle of the night
 
 Marcus
     - Has a vivid dream of being shown the way to the mysterious mountain, going into the mountain itself and seeing
