@@ -81,7 +81,7 @@ _________
         Leader: Idan
             (Looks like a Githyanki - Characteristics of a Githyanki)
             Very unique voice, punctual and to the point. Voice tends to carry forward and throughout
-                Actually a Dragon (Ancient Red Dragon)
+                Actually a Dragon (Ancient Gold Dragon)
                 If group kills Idan (Githyanki) he'll turn into a dragon shortly after killing him
         Name: Bloodstars
         Group Numbers: 30+
@@ -101,7 +101,7 @@ _________
         Alwin Norlen
 
     2nd Mate
-        - Tiefling (Red Tiefling, horns that circle around
+        - Tiefling (Red Tiefling, horns that circle around)
         Valvir (Rough around the edges and is loyal to the captain, will do anything for the Captain)
 
 
@@ -250,4 +250,110 @@ The group all awakes
                 As time moves on the DC becomes lower, by 9AM the army will be marching in front of the Tavern in full
                 force
 
+When the group gets down to the main part of the Tavern Sandra is waiting for them with a Barbarian
+    - Introduces the Barbarian to the group and states that they could help going to the Land of Coal and dealing with
+        the Merc Group
+    - Also confirms that the city is going to war with the Empire for multiple attacks on the Elven villages outside
+        Olsa Thalor
+
+*** Notes ***
+
+*** Side Quest ***
+    - (Mike didn't make it)
+
+Marcus & Koshka go into a black portal
+Connor leaves right before that
+    - They go into the black portal and meet a Half-Orc
+    - Now the goal is to continue forth through a series of obstacles to get to the treasure at the end
+        - Each section has their own treasures and each section automatically heals and gives back all health/spells
+
+Koshka pushes the Marcus into a black portal and meets Bo (Half-Orc)
+    In the land of Ogath
+    Going through each individual layer facing different monsters getting new items/gold etc.
+
+    Faced the following:
+        Ettin
+        Barlgura
+        Bullete
+
+_________________________________________
+*** 3/13/2022 Session ***
+
+The group woke up to find that Connor has left, the dreams have been had. They went around getting the last minute
+    shopping to be done. The group met two new members along the way and moved to the secret port of the elven lands.
+    The group met the captain Alwin and sailed to the Land of Coal. Once the group landed, they were being watched by
+    a few others.
+
+Start of the session:
+    Group is being watched and everyone is doing separate things.
+
+    ** Mercs in the mountain **
+    10 Outside the Mountain:
+        HP: 35
+        AC: 14
+        6 Melee (+4) / 4 Range (+4)
+
+    10 Inside the mountain just in the first main room:
+        HP: 45
+        AC: 15
+        7 Melee (+4) / 3 Range (+4)
+
+    10 In the deep part of the mountain:
+        HP: 45
+        AC: 15
+        6 Melee (+5) / 3 Range (+5)
+        HP: 50
+        AC: 16
+        Melee Barbarian (+6)
+
+    BBEG:
+        HP: 175
+        AC: 18
+        Spell Caster (+6) (DC 16)/ Heavy Hitter
+            Cantrip: 1: Lightning Lure
+                     2: True Strike (C)
+                     3: Poison Spray
+                     4: Chill Touch
+
+            Level 1: 1: Earth Tremor
+                     2: Expeditious Retreat (C)
+                     3: Shield
+                     4: Ray of Sickness
+
+            Level 2: 1: Vortex Warp
+                     2: Gust of Wind (C)
+                     3: Blindness/Deafness
+
+            Level 3: 1: Fireball
+                     2: Lightning Bolt
+                     3: Thunder Step
+
+            Level 4: 1: Wall of Fire (C)
+                     2: Fire Shield
+
+    Traps throughout the mountain:
+        Poison / Darts / False floors / etc.
+        DC 12  / DC 13 /   DC 13
+
+________________________________
+
+3/20/2022 - Session Start
+
+The group moved to the mountain and was escorted through the 30 or so guards
+There they found Idan at the last chamber with mounds of gold/platinum/jewels bypassing all the traps...
+Idan heard them out and got angry due to misinformation that was occurring and eventually leads to the beginning of a
+    fight
+
+Storlog - Red Ancient Dragon - Mysterious Mountain Dragon
+** Marcus hasted Bo
+** Ragnus has Aid - Koshka, Ragnus, Bo
+
+Idan wants to battle against the group
+
+________________________________
+
+4/3/2022
+
+Killed Idan and the group looted the remains
+They scaled through the mountain and now at the top of the mountain
 
